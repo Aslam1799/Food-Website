@@ -729,3 +729,8 @@ a
         height: 55vmax;
     }
 }
+@media (max-width: 350px){
+    .main-title p{
+        width: 70%;
+    }
+}
